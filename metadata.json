@@ -1,0 +1,5 @@
+{
+  "name": "Passwordless signin",
+  "description": "A pixel-perfect passwordless authentication and onboarding flow.",
+  "requestFramePermissions": []
+}
